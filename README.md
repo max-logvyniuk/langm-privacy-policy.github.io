@@ -43,9 +43,7 @@ You can delete all your data at any time:
 Since all data is stored locally on your device and we have no server-side database:
 
 - **Access:** Your data is always accessible within the app
-- **Export:** Use **Export** to download all your cards as CSV, JSON, or Anki format
 - **Deletion:** Uninstall the app or delete individual cards
-- **Portability:** Export your data in standard formats at any time
 
 ## Changes to This Policy
 
@@ -55,7 +53,7 @@ We may update this Privacy Policy from time to time. Changes will be posted at t
 
 If you have questions about this Privacy Policy, contact us at:
 
-📧 **[langmsupport@gmail.com]**
+📧 **[langm-support@gmail.com]**
 
 ---
 
